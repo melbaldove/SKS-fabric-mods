@@ -17,6 +17,7 @@
 - [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me/files/all?filter-game-version=2020709689%3A9008  )
 - [Auto Config](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api/files)
 - [Axolotl Bucket Fix](https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix/files)
+- [Bad Packets](https://www.curseforge.com/minecraft/mc-mods/badpackets)
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
 - [Basic Shields](https://www.curseforge.com/minecraft/mc-mods/basic-shields-fabric/files)
 - [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib/files)
@@ -38,6 +39,7 @@
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/fabric-chisel)
 - [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits-for-fabric)
 - [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric)
+- [Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api/files)
 - [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/all?filter-game-version=2020709689%3A9008)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [Conjuring](https://www.curseforge.com/minecraft/mc-mods/conjuring)
@@ -65,6 +67,7 @@
 - [Extra Generators](https://www.curseforge.com/minecraft/mc-mods/extra-generators)
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Fabric Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
+- [Fabric Shield](https://www.curseforge.com/minecraft/mc-mods/fabric-shield-lib)
 - [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 - [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric)
 - [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads-fabric)
@@ -75,9 +78,28 @@
 - [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-fabric)
 - [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric)
 - [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric)
+- [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)
+- [Glass Doors](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors)
+- [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish)
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders-fabric)
+- [Golden Hoppers](https://www.curseforge.com/minecraft/mc-mods/golden-hoppers)
+- [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric)
+- [Guild](https://www.curseforge.com/minecraft/mc-mods/guild)
+- [Health Overlay](https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric/files)
+- [Hwyla Addon Horse Info](https://www.curseforge.com/minecraft/mc-mods/hwyla-addon-horse-info)
+- [Impaled](https://www.curseforge.com/minecraft/mc-mods/impaled)
+- [Improved Stations](https://www.curseforge.com/minecraft/mc-mods/improved-stations)
+- [Incantationem](https://www.curseforge.com/minecraft/mc-mods/incantationem)
+- [Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)
+- [Infusion Table](https://www.curseforge.com/minecraft/mc-mods/infusion-table)
+- [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)
+- [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
+- [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks-fabric)
 - [Owo](https://www.curseforge.com/minecraft/mc-mods/owo-lib)
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric/files)
+- [ThonkUtil](https://www.curseforge.com/minecraft/mc-mods/thonkutil)
 - [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets/files)
+- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)
 
 ## Removed
 
@@ -99,13 +121,17 @@
 - Drink Beer (1.18.1)
 - Fast Furnace (1.18.1, incompatible)
 - FTB Ranks (unused, 1.18.2 in alpha)
+- Glassential (1.18)
+- I Know What I'm Doing (client-side)
+- Inventory Control Tweaks (client-side)
+- Inventory HUD+ (client-side)
+- Iris Shaders (client-side)
+- Sodium (client-side)
 
 ## Unknown
 
 - arrp
 - builtin servers
-- Cloth API
-- Fabric API
-- Fabric Shield API
 - Pehkui
 - Dawn
+- Indium
