@@ -107,7 +107,6 @@
 - [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
 - [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks-fabric)
 - [Kibe Utilities](https://www.curseforge.com/minecraft/mc-mods/kibe)
-- [Kube Extras](https://www.curseforge.com/minecraft/mc-mods/kubejs-extras)
 - [Klee Slabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric)
 - [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu/)
 - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric)
@@ -207,6 +206,7 @@
 - Lovely Snails
 - Luminous Wool (1.18.1, seems to be abandonware)
 - No Null Processors (1.18.2 fixed)
+- Pehkui (unused)
 - Simple Teleporters (1.18.1, unused, Waystones are better)
 - DML: Simulacrum (unused)
 - Slot Lock (1.18)
@@ -234,11 +234,10 @@
 - Visuality
 - WMITAF
 
-## Unknown
+## Unknown (unused or unneeded)
 
 - builtin servers
-- Pehkui
-- Dawn
-- Kambrik
+- Kambrik (1.18.1)
 - Kube
+- KubeJS extras
 - Rhino
