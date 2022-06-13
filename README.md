@@ -28,6 +28,7 @@
 - [Better End](https://www.curseforge.com/minecraft/mc-mods/betterend/files)
 - [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)
 - [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether/files)
+- [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)
 - [BLAST](https://www.curseforge.com/minecraft/mc-mods/blast/files)
 - [Blockus](https://www.curseforge.com/minecraft/mc-mods/blockus)
 - [Block Runner](https://www.curseforge.com/minecraft/mc-mods/block-runner/files)
@@ -40,6 +41,7 @@
 - [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier)
 - [Catwalks, Inc](https://www.curseforge.com/minecraft/mc-mods/catwalks-inc)
 - [Chalk](https://www.curseforge.com/minecraft/mc-mods/chalk-fabric)
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/fabric-chisel)
 - [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits-for-fabric)
 - [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric)
@@ -80,6 +82,7 @@
 - [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone)
 - [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
 - [Floral Flair](https://www.curseforge.com/minecraft/mc-mods/floral-flair-fabric)
+- [Flytre](https://www.curseforge.com/minecraft/mc-mods/lib)
 - [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric/)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
 - [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-fabric)
@@ -95,6 +98,7 @@
 - [Guild](https://www.curseforge.com/minecraft/mc-mods/guild)
 - [Health Overlay](https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric/files)
 - [Hwyla Addon Horse Info](https://www.curseforge.com/minecraft/mc-mods/hwyla-addon-horse-info)
+- [I Know What I'm Doing](https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing)
 - [Icarus](https://www.curseforge.com/minecraft/mc-mods/icarus)
 - [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric)
 - [Impaled](https://www.curseforge.com/minecraft/mc-mods/impaled)
@@ -104,7 +108,10 @@
 - [Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)
 - [Infusion Table](https://www.curseforge.com/minecraft/mc-mods/infusion-table)
 - [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)
+- [Inventory Control Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-control-tweaks)
+- [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 - [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
+- [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 - [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks-fabric)
 - [Kibe Utilities](https://www.curseforge.com/minecraft/mc-mods/kibe)
 - [Klee Slabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric)
@@ -124,10 +131,12 @@
 - [More Axolots](https://www.curseforge.com/minecraft/mc-mods/more-axolotls/files)
 - [More Gems](https://www.curseforge.com/minecraft/mc-mods/more-gems-fabric)
 - [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric/files)
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - [Mythic Mounts](https://www.curseforge.com/minecraft/mc-mods/mythic-mounts)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [Nears](https://www.curseforge.com/minecraft/mc-mods/nears)
 - [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric)
+- [No Angled Brackets](https://www.curseforge.com/minecraft/mc-mods/no-angled-brackets)
 - [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric)
 - [On A Stick](https://www.curseforge.com/minecraft/mc-mods/onastick)
 - [Owo](https://www.curseforge.com/minecraft/mc-mods/owo-lib)
@@ -156,12 +165,15 @@
 - [The Graveyard](https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric)
 - [ThonkUtil](https://www.curseforge.com/minecraft/mc-mods/thonkutil)
 - [ToolStats](https://www.curseforge.com/minecraft/mc-mods/tool-stats)
+- [TooltipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
 - [Grim's Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables)
 - [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets/files)
 - [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot-fabric-edition)
 - [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers)
 - [Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators)
 - [Villager Hats](https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod)
+- [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality)
+- [WMITAF](https://www.curseforge.com/minecraft/mc-mods/wmitaf)
 - [Winterly](https://www.curseforge.com/minecraft/mc-mods/winterly)
 - [Wireless Networks](https://www.curseforge.com/minecraft/mc-mods/wireless-networks)
 - [Wither Skeleton Totem](https://www.curseforge.com/minecraft/mc-mods/wither-totem)
@@ -221,17 +233,7 @@
 
 ## Recommended for Client Side
 
-- Better Third Person
-- Cherished Worlds
-- I Know What I'm Doing
-- Inventory Control Tweaks
-- Inventory HUD+
-- Iris Shaders
-- Mouse Tweaks
-- No Angle Brackets
 - Replanter (1.18.1)
-- TooltipFix
-- Visuality
 - WMITAF
 
 ## Unknown (unused or unneeded)
