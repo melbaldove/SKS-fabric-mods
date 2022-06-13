@@ -213,6 +213,7 @@
 - Fast Furnace (1.18.1, incompatible)
 - FTB Ranks (unused, 1.18.2 in alpha)
 - Glassential (1.18)
+- Iron Jetpacks (compatible, but crashes)
 - Jump Over Fences (1.18.1)
 - Light Overlay (client-side, MiniHUD is superior)
 - Lovely Snails
@@ -234,7 +235,6 @@
 ## Recommended for Client Side
 
 - Replanter (1.18.1)
-- WMITAF
 
 ## Unknown (unused or unneeded)
 
