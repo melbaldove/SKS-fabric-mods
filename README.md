@@ -194,7 +194,13 @@
 
 ## Added
 
+- [Bartering Station](https://www.curseforge.com/minecraft/mc-mods/bartering-station) [1.19.2]
+- [Better Animations Collection](https://www.curseforge.com/minecraft/mc-mods/better-animations-collection) [1.19.2]
+- [Mob Plaques](https://www.curseforge.com/minecraft/mc-mods/mob-plaques) [1.19.2]
+- [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects) [1.19.2]
 - [Trading Post](https://www.curseforge.com/minecraft/mc-mods/trading-post) [1.19.2]
+- [Universal Enchants](https://www.curseforge.com/minecraft/mc-mods/universal-enchants-forge) [1.19.2]
+- [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods) [1.19.2]
 
 ## Removed
 
