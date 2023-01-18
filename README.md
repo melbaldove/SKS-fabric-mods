@@ -210,9 +210,12 @@
 - [Subterrestrial](https://www.curseforge.com/minecraft/mc-mods/subterrestrial) [1.19.2]
 - [Trading Post](https://www.curseforge.com/minecraft/mc-mods/trading-post) [1.19.2]
 - [Tooltip Scroll](https://www.curseforge.com/minecraft/mc-mods/tooltip-scroll-fabric) [1.19.3]
+- [Towns and Towers](https://www.curseforge.com/minecraft/mc-mods/towns-and-towers) [1.19.3]
+- [Towers of the Wild: Additions](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-additions) [1.19.2]
 - [Universal Enchants](https://www.curseforge.com/minecraft/mc-mods/universal-enchants-forge) [1.19.2]
-- [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) [1.19.2]
+- [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric) [1.19.2]
 - [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods) [1.19.2]
+- [Yung's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric) [1.19.2]
 
 ## Removed
 
