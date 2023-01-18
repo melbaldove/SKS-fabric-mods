@@ -42,6 +42,7 @@
 - [Capybara](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric) [1.19.3]
 - [Caracal](https://www.curseforge.com/minecraft/mc-mods/caracal-mod) [1.19.3]
 - [Cardinal Components](https://www.curseforge.com/minecraft/mc-mods/cardinal-components) [1.19.3]
+- [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier) [1.19]
 - [Catwalks, Inc](https://www.curseforge.com/minecraft/mc-mods/catwalks-inc) [1.19.2]
 - [CC: Restitched](https://www.curseforge.com/minecraft/mc-mods/cc-restitched/) [1.19.3]
 - [Chalk](https://www.curseforge.com/minecraft/mc-mods/chalk-fabric) [1.19.3]
@@ -217,7 +218,6 @@
 
 - [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2things/files) [1.18.2, possibly outdated]
 - [Break Progress](https://www.curseforge.com/minecraft/mc-mods/break-progress/files) [1.18.2, WTHIT incompatibility]
-- [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier) [1.19]
 - [Dwarf Coal](https://www.curseforge.com/minecraft/mc-mods/dwarf-coal-fabric) [1.19]
 - [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) [1.18.2, no longer in 1.19]
 - [Flytre](https://www.curseforge.com/minecraft/mc-mods/lib) [1.19.1]
