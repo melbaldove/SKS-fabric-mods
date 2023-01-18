@@ -188,6 +188,7 @@
 
 ## Added
 
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric) [1.19.2]
 - [Automobility](https://www.curseforge.com/minecraft/mc-mods/automobility) [1.19.2]
 - [Bartering Station](https://www.curseforge.com/minecraft/mc-mods/bartering-station) [1.19.2]
 - [Better Animations Collection](https://www.curseforge.com/minecraft/mc-mods/better-animations-collection) [1.19.2]
