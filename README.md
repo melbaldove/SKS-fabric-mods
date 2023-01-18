@@ -198,7 +198,6 @@
 - [Dwarven Artifacts](https://www.curseforge.com/minecraft/mc-mods/dwarven-artifacts) [1.19.2]
 - [Explorify](https://www.curseforge.com/minecraft/mc-mods/explorify) [1.19.2]
 - [Immersive Aircrafts](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) [1.19.3]
-- [Laser Bridges Doors](https://www.curseforge.com/minecraft/mc-mods/laser-bridges-doors) [1.19.2]
 - [Let's do Wine!](https://www.curseforge.com/minecraft/mc-mods/lets-do-wine) [1.19.2]
 - [Mine Cells](https://www.curseforge.com/minecraft/mc-mods/minecells) [1.19.2]
 - [Mob Plaques](https://www.curseforge.com/minecraft/mc-mods/mob-plaques) [1.19.2]
