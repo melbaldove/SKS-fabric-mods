@@ -48,7 +48,6 @@
 - [Chalk](https://www.curseforge.com/minecraft/mc-mods/chalk-fabric) [1.19.3]
 - [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric) [1.19.2]
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel-reborn) [1.19.3]
-- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits-for-fabric) [1.19.2]
 - [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric) [1.19.3]
 - [Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api/files) [1.19]
 - [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/all?filter-game-version=2020709689%3A9008) [1.19.3]
@@ -223,6 +222,7 @@
 
 - [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2things/files) [1.18.2, possibly outdated]
 - [Break Progress](https://www.curseforge.com/minecraft/mc-mods/break-progress/files) [1.18.2, WTHIT incompatibility]
+- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits-for-fabric) [1.19.2]
 - [Dwarf Coal](https://www.curseforge.com/minecraft/mc-mods/dwarf-coal-fabric) [1.19]
 - [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) [1.18.2, no longer in 1.19]
 - [Flytre](https://www.curseforge.com/minecraft/mc-mods/lib) [1.19.1]
