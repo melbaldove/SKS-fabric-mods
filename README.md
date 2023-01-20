@@ -201,7 +201,6 @@
 - [Mob Plaques](https://www.curseforge.com/minecraft/mc-mods/mob-plaques) [1.19.2]
 - [No Night Vision Flickering](https://www.curseforge.com/minecraft/mc-mods/no-night-vision-flickering) [1.19.2]
 - [Nyf's Quivers](https://www.curseforge.com/minecraft/mc-mods/nyfs-quivers) [1.19.3]
-- [Paladin's Furniture](https://www.curseforge.com/minecraft/mc-mods/paladins-furniture) [1.19.3]
 - [Philip's Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins) [1.19.3]
 - [Potion Blender](https://www.curseforge.com/minecraft/mc-mods/potion-blender) [1.19.3]
 - [Structory](https://www.curseforge.com/minecraft/mc-mods/structory) [1.19.3]
