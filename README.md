@@ -173,7 +173,6 @@
 - [Winterly](https://www.curseforge.com/minecraft/mc-mods/winterly) [1.19.2]
 - [Wither Skeleton Totem](https://www.curseforge.com/minecraft/mc-mods/wither-totem) [1.19.2]
 - [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) [1.19.3]
-- [Wraith Croptosis](https://www.curseforge.com/minecraft/mc-mods/croptosis/files) [1.19.2]
 - [Wraith Harvest Scythes](https://www.curseforge.com/minecraft/mc-mods/harvest-scythes/files) [1.19.3]
 - [Wraith Waystones](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones/files) [1.19.3]
 - [XP Obelisk](https://www.curseforge.com/minecraft/mc-mods/xp-obelisk) [1.19.3]
