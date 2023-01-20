@@ -194,7 +194,6 @@
 - [Bartering Station](https://www.curseforge.com/minecraft/mc-mods/bartering-station) [1.19.2]
 - [Better Animations Collection](https://www.curseforge.com/minecraft/mc-mods/better-animations-collection) [1.19.2]
 - [Drink Beer Clockwerk Edition](https://www.curseforge.com/minecraft/mc-mods/drink-beer-unofficial-clockwerk-edition) [1.19.2]
-- [Dwarven Artifacts](https://www.curseforge.com/minecraft/mc-mods/dwarven-artifacts) [1.19.2]
 - [Explorify](https://www.curseforge.com/minecraft/mc-mods/explorify) [1.19.2]
 - [Immersive Aircrafts](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) [1.19.3]
 - [Let's do Wine!](https://www.curseforge.com/minecraft/mc-mods/lets-do-wine) [1.19.2]
