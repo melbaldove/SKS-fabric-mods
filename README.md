@@ -206,7 +206,6 @@
 - [Structory](https://www.curseforge.com/minecraft/mc-mods/structory) [1.19.3]
 - [Structory: Towers](https://www.curseforge.com/minecraft/mc-mods/structory-towers) [1.19.3]
 - [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects) [1.19.2]
-- [Subterrestrial](https://www.curseforge.com/minecraft/mc-mods/subterrestrial) [1.19.2]
 - [Trading Post](https://www.curseforge.com/minecraft/mc-mods/trading-post) [1.19.2]
 - [Tooltip Scroll](https://www.curseforge.com/minecraft/mc-mods/tooltip-scroll-fabric) [1.19.3]
 - [Towns and Towers](https://www.curseforge.com/minecraft/mc-mods/towns-and-towers) [1.19.3]
