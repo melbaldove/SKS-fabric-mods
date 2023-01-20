@@ -191,7 +191,6 @@
 - [Automobility](https://www.curseforge.com/minecraft/mc-mods/automobility) [1.19.2]
 - [Bartering Station](https://www.curseforge.com/minecraft/mc-mods/bartering-station) [1.19.2]
 - [Better Animations Collection](https://www.curseforge.com/minecraft/mc-mods/better-animations-collection) [1.19.2]
-- [Drink Beer Clockwerk Edition](https://www.curseforge.com/minecraft/mc-mods/drink-beer-unofficial-clockwerk-edition) [1.19.2]
 - [Explorify](https://www.curseforge.com/minecraft/mc-mods/explorify) [1.19.2]
 - [Mob Plaques](https://www.curseforge.com/minecraft/mc-mods/mob-plaques) [1.19.2]
 - [No Night Vision Flickering](https://www.curseforge.com/minecraft/mc-mods/no-night-vision-flickering) [1.19.2]
