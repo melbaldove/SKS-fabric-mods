@@ -194,7 +194,6 @@
 - [Bartering Station](https://www.curseforge.com/minecraft/mc-mods/bartering-station) [1.19.2]
 - [Better Animations Collection](https://www.curseforge.com/minecraft/mc-mods/better-animations-collection) [1.19.2]
 - [Explorify](https://www.curseforge.com/minecraft/mc-mods/explorify) [1.19.2]
-- [Let's do Wine!](https://www.curseforge.com/minecraft/mc-mods/lets-do-wine) [1.19.2]
 - [Mine Cells](https://www.curseforge.com/minecraft/mc-mods/minecells) [1.19.2]
 - [Mob Plaques](https://www.curseforge.com/minecraft/mc-mods/mob-plaques) [1.19.2]
 - [No Night Vision Flickering](https://www.curseforge.com/minecraft/mc-mods/no-night-vision-flickering) [1.19.2]
