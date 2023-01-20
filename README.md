@@ -169,7 +169,6 @@
 - [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers) [1.19.2]
 - [Villager Hats](https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod) [1.19.3]
 - [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality) [1.19.3]
-- [Ward Blocks](https://www.curseforge.com/minecraft/mc-mods/ward-blocks-fabric) [1.19.3]
 - [WMITAF](https://www.curseforge.com/minecraft/mc-mods/wmitaf) [1.19.3]
 - [Winterly](https://www.curseforge.com/minecraft/mc-mods/winterly) [1.19.2]
 - [Wither Skeleton Totem](https://www.curseforge.com/minecraft/mc-mods/wither-totem) [1.19.2]
